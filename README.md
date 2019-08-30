@@ -11,5 +11,5 @@ yarn start
 
 ## Dependencies used
 
-[expo]{https://github.com/expo/expo}
-[react-native-raw-bottom-sheet]{https://github.com/nysamnang/react-native-raw-bottom-sheet}
+- [expo](https://github.com/expo/expo)
+- [react-native-raw-bottom-sheet](https://github.com/nysamnang/react-native-raw-bottom-sheet)
